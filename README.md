@@ -7,3 +7,4 @@ El proyecto original de donde me basé para llevarlo a cabo lo pueden encontrar 
 Agradecido de todo el material que **Online Tutorials** sube a sus plataformas y el gran valor que aporta a quienes continuamos en el camino del aprendizaje contínuo.
 
 ## Preview
+![Alt text](card-gifs.gif)
